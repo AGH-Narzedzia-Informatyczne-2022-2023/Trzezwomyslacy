@@ -4,3 +4,7 @@
   
 Celem projektu jest stworzenie gry inspirowanej agar.io.
 </p>
+## Członkowie:
+```sh
+Khulan Erdenebayar, Karol Kubek, Monika Halek, Patryk Podgórski , Krystyna 
+```
