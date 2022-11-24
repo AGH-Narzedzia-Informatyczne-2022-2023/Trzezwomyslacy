@@ -10,3 +10,8 @@ Celem projektu jest stworzenie gry inspirowanej agar.io.
 ```sh
 Khulan Erdenebayar, Karol Kubek, Monika Halek, Patryk Podgórski , Krystyna Bodziony
 ```
+## License
+```sh
+This project is licensed under the GNU License. See the LICENSE file for details.
+
+```
