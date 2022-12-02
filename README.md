@@ -21,4 +21,4 @@ This project is licensed under the GNU License. See the LICENSE file for details
 
 Testing "conflict", does it work?
 
-I'm trying to cause a conflict 
+I'm trying to cause a conflict >>>>>>
