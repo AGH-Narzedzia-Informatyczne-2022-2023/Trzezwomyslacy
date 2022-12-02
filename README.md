@@ -18,3 +18,4 @@ Khulan Erdenebayar, Karol Kubek, Monika Halek, Patryk Podgórski , Krystyna Bodz
 This project is licensed under the GNU License. See the LICENSE file for details.
 
 ```
+Testing conflict
