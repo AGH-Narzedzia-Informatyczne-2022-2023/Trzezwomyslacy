@@ -21,4 +21,5 @@ This project is licensed under the GNU License. See the LICENSE file for details
 
 Testing "conflict", does it work?
 
-Some changes trying conflict
+Some changes 
+
