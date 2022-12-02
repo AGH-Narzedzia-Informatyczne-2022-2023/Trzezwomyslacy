@@ -21,4 +21,3 @@ This project is licensed under the GNU License. See the LICENSE file for details
 
 Testing "conflict", does it work?
 
-Conflicts .....
