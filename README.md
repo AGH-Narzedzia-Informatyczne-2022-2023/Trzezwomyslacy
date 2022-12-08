@@ -5,7 +5,7 @@
 Celem projektu jest stworzenie gry inspirowanej agar.io.
 Gra zostanie napisana w języku Python.
 
-Zamiast kółek będą czołgi.
+Zamiast kółek będą czołgii.
 </p>
 
 
