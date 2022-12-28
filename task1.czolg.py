@@ -3,7 +3,7 @@ from array import *
 print("\nagar.czolg.io\nautorzy: Khulan Erdenebayar, Karol Kubek, Monika Halek, Patryk Podgórski , Krystyna Bodziony \npunkty:  \n")
 
 A = [[" . "]*11 for i in range(11)]
-#del T[3]
+
 A[5][5]=" # "
 
 A[2][3]=" X "
